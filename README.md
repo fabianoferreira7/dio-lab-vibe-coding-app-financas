@@ -72,6 +72,11 @@ Validação inicial: Testes com grupo piloto, inclusão de diferentes perfis de 
 Resultado Final no Lovable:
 https://id-preview--7664ec16-667d-4d07-b2e7-33d63ae55ebe.lovable.app/ (id-preview--7664ec16-667d-4d07-b2e7-33d63ae55ebe.lovable.app in Bing)
 
+<img width="1893" height="958" alt="{BE93F2DF-B9BD-42C0-8BF9-CF6DF2B32517}" src="https://github.com/user-attachments/assets/d00e05de-bb97-467d-aa28-7192bfe18d25" />
+
+<img width="1894" height="966" alt="{ADF8ED85-F0E8-4B54-AB2D-7D2EE3E24E92}" src="https://github.com/user-attachments/assets/e9330517-2e1c-4aee-bc42-2014e6631df6" />
+
+
 📚 Resumo do App de Finanças Pessoais
 O aplicativo ajuda os usuários a organizar suas finanças de forma simples e acessível, por meio de conversas em linguagem natural. Ele permite registrar gastos sem formulários complexos, classificar automaticamente as transações, acompanhar metas financeiras e oferecer dicas personalizadas de economia por meio de um agente conversacional. Além disso, apresenta relatórios claros e adaptados ao perfil de cada usuário, seguindo princípios de Design Universal para garantir uma boa experiência para o maior número possível de pessoas.
 
